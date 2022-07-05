@@ -8,7 +8,7 @@ Get the dataset and assumption here: https://www.streetofwalls.com/finance-train
 
 get the code from the repository
 
-git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection.git
+git clone: https://github.com/Calivala-86/PE-LBO-MODEL.git
 
 Install required python packages if previously not installed:
 
