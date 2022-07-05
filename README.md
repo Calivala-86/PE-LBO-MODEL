@@ -2,7 +2,7 @@
 
 This is a simple replication/recreation of the PAPER LBO MODEL EXAMPLE by STREETOFWALLS using Python. The ratonale behind for using Python was to understand how effieciently Python can be compare to excel in sense of timing assumption and formula manipulation. 
 
-*Getting started*
+**Getting started**
 
 Get the dataset and assumption here: https://www.streetofwalls.com/finance-training-courses/private-equity-training/lbo-modeling-test-example/
 
