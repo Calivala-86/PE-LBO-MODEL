@@ -12,7 +12,7 @@ git clone: https://github.com/Calivala-86/PE-LBO-MODEL.git
 
 Install required python packages if previously not installed:
 
-download link:https://www.python.org/downloads/
+download link: https://www.python.org/downloads/
 
 Instructions: https://www.tutorialspoint.com/how-to-install-python-in-windows
 
